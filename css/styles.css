@@ -12,9 +12,8 @@ body{
 }
 
 .calculadora{
-    background-color: rgb(70, 70, 190);
+    background-color: rgb(69, 101, 243);
     color: white;
-    width: 350px;
     margin: 20px;
     padding: 20px;
     justify-content: space-between;
@@ -41,8 +40,8 @@ input[ type= "text"]{
 }
 
 .btn{
-    background-color: blueviolet;
-    color: azure;
+    background-color: rgb(233, 113, 197);
+    color: rgb(0, 10, 10);
     border: 100%;
     width: 50%;
     padding: 1.2rem;
